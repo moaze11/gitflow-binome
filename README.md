@@ -1,4 +1,3 @@
-# gitflow-binome
-## Ouvrir le site
-Ouvrir le fichier index.html dans un navigateur.
-
+#Pages disponibles
+index.html : page d'accueil
+contact.html : page de contact
